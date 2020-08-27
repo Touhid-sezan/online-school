@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import './Container.css';
 import Course from '../Course';
 import courseData from '../../../FakeData/courseData';
 import Cart from '../Cart';
