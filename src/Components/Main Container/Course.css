@@ -1,0 +1,12 @@
+#course-img img{
+    width: 200px;
+    padding: 1px;
+}
+.row.courses-list {
+    border-bottom: 1px solid red;
+    margin-top: 20px;
+    padding-bottom: 10px;
+}
+h4 {
+    margin-top: 10px;
+}
